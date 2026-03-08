@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=LF1-1
+Removed Pin From Net: NetName=NetCF2_2 Pin=LF1-2
+Removed Pin From Net: NetName=GND Pin=LF3-1
+Removed Pin From Net: NetName=NetCF1_2 Pin=LF3-2
+Change Component Footprint: Designator=J1 Old Footprint=61300411121 New Footprint=SULLINS_PPTC041LFBN-RC
+Change Component Footprint: Designator=J2 Old Footprint=61300411121 New Footprint=SULLINS_PPTC041LFBN-RC
+Change Component Footprint: Designator=J3 Old Footprint=61300411121 New Footprint=SULLINS_PPTC041LFBN-RC
+Change component parameters: Component "LF1" not found
+Change component parameters: Component "LF3" not found
+Add Pin To Net: Unknown Pin: Pin LF1-1
+Add Pin To Net: Unknown Pin: Pin LF1-2
+Add Pin To Net: Unknown Pin: Pin LF3-1
+Add Pin To Net: Unknown Pin: Pin LF3-2

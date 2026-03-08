@@ -1,0 +1,20 @@
+Added Component: Designator=LF1(INDC1608X100N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BRC1608TR50M6/Taiyo+Yuden/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BRC1608TR50M6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BRC1608TR50M6/Taiyo+Yuden/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LF3(INDC1608X100N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BRC1608TR50M6/Taiyo+Yuden/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BRC1608TR50M6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BRC1608TR50M6/Taiyo+Yuden/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LF1-1
+Added Pin To Net: NetName=NetCF2_2 Pin=LF1-2
+Added Pin To Net: NetName=GND Pin=LF3-1
+Added Pin To Net: NetName=NetCF1_2 Pin=LF3-2
+Added Member To Class: ClassName=SubsystemA Member=Component LF1 500nH
+Added Member To Class: ClassName=SubsystemA Member=Component LF3 500nH
