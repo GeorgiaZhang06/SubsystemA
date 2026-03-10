@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\matth\OneDrive\Documents\GitHub\SubsystemA\SubsystemA_NEW.PcbDoc
-Date     : 2026-03-08
-Time     : 7:03:09 PM
+Date     : 2026-03-09
+Time     : 9:09:48 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
    Violation between Clearance Constraint: (2mil < 10mil) Between Pad CF2-1(700mil,1086.5mil) on Top Layer And Region (0 hole(s)) Keep-Out Layer 
@@ -106,4 +106,4 @@ Rule Violations :0
 
 Violations Detected : 64
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
