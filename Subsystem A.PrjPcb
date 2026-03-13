@@ -117,23 +117,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFZWCDAC
 
-[Document5]
-DocumentPath=SubsystemA.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ITBEACET
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Subsystem A\Design Rule Check - rxall_blank.html
 DItemRevisionGUID=

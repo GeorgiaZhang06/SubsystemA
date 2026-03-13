@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetJ2_2 Pin=L2-4
+Removed Pin From Net: NetName=NetJ2_3 Pin=L4-4
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q2-1
+Removed Pin From Net: NetName=+5 Pin=R15-2
+Removed Pin From Net: NetName=NetJ2_1 Pin=R16-1
+Removed Pin From Net: NetName=NetJ2_3 Pin=R17-1
+Removed Pin From Net: NetName=+5 Pin=R17-2
+Removed Member From Class: ClassName=SubsystemA Member=R17
+Change Component Comment : Designator=J2 Old Comment=LO New Comment=PPTC041LFBN-RC
+Change Component Comment : Designator=R14 Old Comment=MFR-25FRF52-10K New Comment=10k
+Change Component Comment : Designator=R15 Old Comment=MFR-25FRF52-10K New Comment=10k
+Change Component Comment : Designator=R16 Old Comment=MFR-25FRF52-10K New Comment=10k
+Change Component Comment : Designator=J3 Old Comment=OUT New Comment=PPTC041LFBN-RC
+Change Component Comment : Designator=J1 Old Comment=RF New Comment=PPTC041LFBN-RC
+Added Pin To Net: NetName=NetQ1_2 Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=NetJ2_3 Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=NetL2_4 Pin=L2-4
+Added Pin To Net: NetName=NetL2_4 Pin=Q1-1
+Added Net: Name=NetL2_4
+Added Pin To Net: NetName=NetL4_4 Pin=L4-4
+Added Pin To Net: NetName=NetL4_4 Pin=Q2-1
+Added Net: Name=NetL4_4
