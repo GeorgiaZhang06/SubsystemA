@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetJ2_3 Pin=S1-3
+Removed Pin From Net: NetName=NetL4_4 Pin=S1-4
+Removed Pin From Net: NetName=NetJ2_1 Pin=S1-5
+Removed Pin From Net: NetName=GND Pin=S1-7
+Removed Pin From Net: NetName=NetJ2_1 Pin=S1-13
+Removed Pin From Net: NetName=+5 Pin=S1-14
+Change Component Footprint: Designator=S1 Old Footprint=N14 New Footprint=US8-8_2P1X2P4_ONS
+Change Component Comment : Designator=S1 Old Comment=SN74HC4066N New Comment=FSA1259AK8X
+Change component parameters: Designator = "S1" ("S1"); Footprint = "N14"; UniqueID = "\YQMLVDXW" ("\YQMLVDXW")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi / Fairchild Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FSA1259AK8X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_1 Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=NetJ2_3 Pin=S1-5
+Added Pin To Net: NetName=NetL4_4 Pin=S1-6
+Added Pin To Net: NetName=+5 Pin=S1-8
