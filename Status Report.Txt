@@ -2,12 +2,11 @@ Output: NC Drill Files
 Type  : NC Drill
 From  : PCB Document [SubsystemA_NEW.PcbDoc]
    Generated File[SubsystemA_NEW.TXT]
-   Generated File[SubsystemA_NEW.TX1]
    Generated File[SubsystemA_NEW.LDP]
    Generated File[SubsystemA_NEW.DRR]
 
 
-Files Generated   : 4
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 7:05:46 PM On 2026-03-08
+Finished Output Generation At 7:48:09 PM On 2026-03-14

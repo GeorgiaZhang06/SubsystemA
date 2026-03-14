@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: SubsystemA_NEW.GBR   2026-03-08  7:05:46 PM
+Gerber File Extension Report For: SubsystemA_NEW.GBR   2026-03-14  7:48:09 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -9,7 +9,7 @@ Layer Extension     Layer Description
 .GTO                Top Overlay                             
 .GTS                Top Solder                              
 .GTL                Top Layer                               
-.GBL                Bottom Layer 1                          
+.GBL                Bottom (GND)                            
 .GBS                Bottom Solder                           
 .GBO                Bottom Overlay                          
 .GKO                Keep-Out Layer                          

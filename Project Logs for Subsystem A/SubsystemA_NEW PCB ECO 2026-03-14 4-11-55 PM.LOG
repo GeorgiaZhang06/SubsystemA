@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetJ2_2 Pin=L2-4
+Removed Pin From Net: NetName=NetJ2_3 Pin=L4-4
+Added Component: Designator=S1(US8-8_2P1X2P4_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi / Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FSA1259AK8X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_2 Pin=S1-1
+Added Pin To Net: NetName=NetJ2_1 Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=NetJ2_3 Pin=S1-5
+Added Pin To Net: NetName=+5 Pin=S1-8
+Added Pin To Net: NetName=NetL2_4 Pin=L2-4
+Added Pin To Net: NetName=NetL2_4 Pin=S1-2
+Added Net: Name=NetL2_4
+Added Pin To Net: NetName=NetL4_4 Pin=L4-4
+Added Pin To Net: NetName=NetL4_4 Pin=S1-6
+Added Net: Name=NetL4_4
+Added Member To Class: ClassName=SubsystemA Member=Component S1 FSA1259AK8X
