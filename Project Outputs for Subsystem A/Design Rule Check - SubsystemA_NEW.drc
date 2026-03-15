@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\matth\OneDrive\Documents\GitHub\SubsystemA\SubsystemA_NEW.PcbDoc
-Date     : 2026-03-14
-Time     : 7:14:07 PM
+Date     : 2026-03-15
+Time     : 10:19:36 AM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
    Violation between Clearance Constraint: (0.051mm < 0.254mm) Between Pad CF2-1(17.78mm,27.597mm) on Top Layer And Region (0 hole(s)) Keep-Out Layer 
@@ -121,7 +121,9 @@ Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad LF2-2(17.91mm,18.01mm) on Top Layer And Track (0.81mm,21.16mm)(15.86mm,21.16mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad LF2-2(17.91mm,18.01mm) on Top Layer And Track (19.51mm,11.86mm)(19.51mm,13.21mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
    Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R8-1(50.8mm,16.51mm) on Multi-Layer And Text "D6" (48.3mm,15.985mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-Rule Violations :54
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad U1-5(75.565mm,17.495mm) on Top Layer And Text "R10" (72.339mm,17.529mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.235mm < 0.254mm) Between Pad U1-6(76.835mm,17.495mm) on Top Layer And Text "R10" (72.339mm,17.529mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.235mm]
+Rule Violations :56
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -130,6 +132,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 90
+Violations Detected : 92
 Waived Violations : 0
 Time Elapsed        : 00:00:00
