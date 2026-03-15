@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=U?-1
+Removed Pin From Net: NetName=NetR5_1 Pin=U?-2
+Removed Pin From Net: NetName=NetC3_2 Pin=U?-3
+Removed Pin From Net: NetName=NetC7_2 Pin=U?-5
+Removed Pin From Net: NetName=NetR11_1 Pin=U?-6
+Removed Pin From Net: NetName=NetC6_1 Pin=U?-7
+Added Pin To Net: NetName=NetC2_1 Pin=U?-1
+Added Pin To Net: NetName=NetR5_1 Pin=U?-2
+Added Pin To Net: NetName=NetC3_2 Pin=U?-3
+Added Pin To Net: NetName=NetC7_2 Pin=U?-5
+Added Pin To Net: NetName=NetR11_1 Pin=U?-6
+Added Pin To Net: NetName=NetC6_1 Pin=U?-7
+Added Member To Class: ClassName=SubsystemA Member=Component U? OPA1642AIDR

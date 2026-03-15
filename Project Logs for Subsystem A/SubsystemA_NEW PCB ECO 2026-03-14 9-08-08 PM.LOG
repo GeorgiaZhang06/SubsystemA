@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=NetC3_2 Pin=U1-3
+Removed Pin From Net: NetName=NetR5_1 Pin=U1-4
+Removed Pin From Net: NetName=+5 Pin=U1-5
+Removed Pin From Net: NetName=NetC6_1 Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=NetC7_2 Pin=U2-3
+Removed Pin From Net: NetName=NetR11_1 Pin=U2-4
+Removed Pin From Net: NetName=+5 Pin=U2-5
+Removed Member From Class: ClassName=SubsystemA Member=U1
+Removed Member From Class: ClassName=SubsystemA Member=U2
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=6366F00F-2F5E-49CA-A393-A6C3EB69613C New ItemGUID= Old RevisionGUID=9D57D15A-6CA0-4DD7-B512-9BDDA0A5D642 New RevisionGUID=
+Change Managed Component Library Link : Designator=J2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=6366F00F-2F5E-49CA-A393-A6C3EB69613C New ItemGUID= Old RevisionGUID=9D57D15A-6CA0-4DD7-B512-9BDDA0A5D642 New RevisionGUID=
+Change Managed Component Library Link : Designator=J3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=6366F00F-2F5E-49CA-A393-A6C3EB69613C New ItemGUID= Old RevisionGUID=9D57D15A-6CA0-4DD7-B512-9BDDA0A5D642 New RevisionGUID=
+Change component parameters: Designator = "J1" ("J1"); Footprint = "SULLINS_PPTC041LFBN-RC"; UniqueID = "\DTCCGKLI" ("\DTCCGKLI")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PPTC041LFBN-RC/Sullins/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Sullins Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "PPTC041LFBN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PPTC041LFBN-RC/Sullins/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "SULLINS_PPTC041LFBN-RC"; UniqueID = "\LHYFRRDZ" ("\LHYFRRDZ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PPTC041LFBN-RC/Sullins/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Sullins Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "PPTC041LFBN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PPTC041LFBN-RC/Sullins/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "SULLINS_PPTC041LFBN-RC"; UniqueID = "\FKTQQIEH" ("\FKTQQIEH")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PPTC041LFBN-RC/Sullins/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Sullins Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "PPTC041LFBN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PPTC041LFBN-RC/Sullins/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(D0008A_M)
+Add component (AddParameter): Name = "BW @ Acl(MHz)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=OPA1642&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/msoi002j"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SBOS484B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = "11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "2.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "D0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4040047-3/M, 06/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "OPA1642AIDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Audio Operational Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vmax(V)"; Value = "36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vmin(V)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at Flatband(Typ)(nV/rtHz)"; Value = "5.1"; VariantName = "[No Variations]"
+Added Component: Designator=U?(D0008A_M)
+Add component (AddParameter): Name = "BW @ Acl(MHz)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=OPA1642&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/msoi002j"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SBOS484B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = "11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "2.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "D0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4040047-3/M, 06/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "OPA1642AIDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Audio Operational Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vmax(V)"; Value = "36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vmin(V)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at Flatband(Typ)(nV/rtHz)"; Value = "5.1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=U?-1
+Added Pin To Net: NetName=NetR5_1 Pin=U?-2
+Added Pin To Net: NetName=NetC3_2 Pin=U?-3
+Added Pin To Net: NetName=+5 Pin=U?-4
+Added Pin To Net: NetName=+5 Pin=U?-4
+Added Pin To Net: NetName=NetC7_2 Pin=U?-5
+Added Pin To Net: NetName=NetR11_1 Pin=U?-6
+Added Pin To Net: NetName=NetC6_1 Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Member To Class: ClassName=SubsystemA Member=Component U? OPA1642AIDR
+Added Member To Class: ClassName=SubsystemA Member=Component U? OPA1642AIDR
